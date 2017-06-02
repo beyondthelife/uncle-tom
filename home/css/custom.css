@@ -8,3 +8,8 @@ body {
     color: crimson;
     text-align: center;
 }
+
+.img-section {
+    border: 2px solid #000;
+    border-radius: 5px;
+}
