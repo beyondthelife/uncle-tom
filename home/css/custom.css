@@ -1,5 +1,5 @@
 body {
-    background-color: #eee;
+    background-color: #c3c3c3;
 }
 
 .main-heading {
@@ -12,4 +12,20 @@ body {
 .img-section {
     border: 2px solid #000;
     border-radius: 5px;
+}
+
+.caption {
+    margin: 20px;
+    text-align: center;
+}
+
+.caption span {
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.caption img {
+    border: 1px solid yellowgreen;
+    border-radius: 10px;
 }
